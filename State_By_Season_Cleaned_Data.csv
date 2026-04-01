@@ -1,0 +1,128 @@
+season,state,aqi_value
+Monsoon,Andaman and Nicobar Islands,69.9090909090909
+Monsoon,Andhra Pradesh,58.67480008201763
+Monsoon,Arunachal Pradesh,32.351351351351354
+Monsoon,Assam,55.89676796912687
+Monsoon,Bihar,86.34551591128255
+Monsoon,Chandigarh,82.32900432900433
+Monsoon,Chhattisgarh,51.49278062412669
+Monsoon,Delhi,121.83510428964975
+Monsoon,Gujarat,78.96191489361702
+Monsoon,Haryana,96.97756246812851
+Monsoon,Himachal Pradesh,116.4986301369863
+Monsoon,Jammu and Kashmir,73.52631578947368
+Monsoon,Jharkhand,109.59250585480093
+Monsoon,Karnataka,47.16468967628377
+Monsoon,Kerala,54.785457163426926
+Monsoon,Madhya Pradesh,66.22240362811792
+Monsoon,Maharashtra,59.80287882437967
+Monsoon,Manipur,84.09385113268608
+Monsoon,Meghalaya,28.932960893854748
+Monsoon,Mizoram,24.616666666666667
+Monsoon,Nagaland,51.106753812636164
+Monsoon,Odisha,72.49819121447028
+Monsoon,Puducherry,50.20594479830149
+Monsoon,Punjab,84.3604091456077
+Monsoon,Rajasthan,91.28306569343066
+Monsoon,Sikkim,37.40350877192982
+Monsoon,Tamil Nadu,60.57330726852675
+Monsoon,Telangana,54.179151803408644
+Monsoon,Tripura,52.239754098360656
+Monsoon,Uttar Pradesh,88.03160949321173
+Monsoon,Uttarakhand,61.86049543676663
+Monsoon,West Bengal,59.18029657906328
+Post Monsoon,Andhra Pradesh,87.08915753683415
+Post Monsoon,Arunachal Pradesh,55.94565217391305
+Post Monsoon,Assam,78.14711729622266
+Post Monsoon,Bihar,185.3072331460674
+Post Monsoon,Chandigarh,144.92196007259528
+Post Monsoon,Chhattisgarh,88.51917680074837
+Post Monsoon,Delhi,288.1442307692308
+Post Monsoon,Gujarat,141.95587611370385
+Post Monsoon,Haryana,214.10509031198686
+Post Monsoon,Himachal Pradesh,184.85798816568047
+Post Monsoon,Jammu and Kashmir,89.14388489208633
+Post Monsoon,Jharkhand,187.25806451612902
+Post Monsoon,Karnataka,68.56644609870416
+Post Monsoon,Kerala,63.39343482397717
+Post Monsoon,Madhya Pradesh,143.32878840179495
+Post Monsoon,Maharashtra,124.92147474263825
+Post Monsoon,Manipur,114.98952879581152
+Post Monsoon,Meghalaya,38.204861111111114
+Post Monsoon,Mizoram,33.04132231404959
+Post Monsoon,Nagaland,69.68122270742359
+Post Monsoon,Odisha,125.78925428439092
+Post Monsoon,Puducherry,62.03493449781659
+Post Monsoon,Punjab,162.53215339233037
+Post Monsoon,Rajasthan,160.53590537876656
+Post Monsoon,Sikkim,41.718120805369125
+Post Monsoon,Tamil Nadu,69.64807748752568
+Post Monsoon,Telangana,99.60966875559535
+Post Monsoon,Tripura,124.17735849056604
+Post Monsoon,Uttar Pradesh,215.55737704918033
+Post Monsoon,Uttarakhand,99.1108108108108
+Post Monsoon,West Bengal,127.77496757457847
+Summer,Andaman and Nicobar Islands,58.24242424242424
+Summer,Andhra Pradesh,73.80127108286483
+Summer,Arunachal Pradesh,68.67156862745098
+Summer,Assam,101.93895966029724
+Summer,Bihar,149.94234531040874
+Summer,Chandigarh,118.10714285714286
+Summer,Chhattisgarh,80.97189796800691
+Summer,Delhi,195.86958934517205
+Summer,Gujarat,115.3114237205918
+Summer,Haryana,145.4633119042341
+Summer,Himachal Pradesh,153.31896551724137
+Summer,Jammu and Kashmir,66.53017241379311
+Summer,Jharkhand,142.46605504587157
+Summer,Karnataka,70.79904700815541
+Summer,Kerala,67.76455026455027
+Summer,Madhya Pradesh,116.02298130157735
+Summer,Maharashtra,107.35290271016494
+Summer,Manipur,101.36569579288026
+Summer,Meghalaya,76.68
+Summer,Mizoram,63.707070707070706
+Summer,Nagaland,99.67268041237114
+Summer,Odisha,121.18211231800323
+Summer,Puducherry,47.99303944315545
+Summer,Punjab,107.84216376435717
+Summer,Rajasthan,131.46167711598747
+Summer,Sikkim,67.72052401746726
+Summer,Tamil Nadu,66.74803699179898
+Summer,Telangana,94.87223451327434
+Summer,Tripura,121.38311688311688
+Summer,Uttar Pradesh,145.59436343241728
+Summer,Uttarakhand,87.62045760430686
+Summer,West Bengal,102.44361721445433
+Winter,Andaman and Nicobar Islands,67.28571428571429
+Winter,Andhra Pradesh,110.86865450961065
+Winter,Arunachal Pradesh,79.18518518518519
+Winter,Assam,164.2568493150685
+Winter,Bihar,242.54692113032476
+Winter,Chandigarh,164.43308270676692
+Winter,Chhattisgarh,93.90530697190427
+Winter,Delhi,295.4477149496514
+Winter,Gujarat,147.666142557652
+Winter,Haryana,190.57807749278865
+Winter,Himachal Pradesh,215.9407114624506
+Winter,Jammu and Kashmir,111.80952380952381
+Winter,Jharkhand,170.90485829959513
+Winter,Karnataka,78.92130739852563
+Winter,Kerala,83.28092702787347
+Winter,Madhya Pradesh,143.92042123547932
+Winter,Maharashtra,140.45471757652257
+Winter,Manipur,112.62108262108262
+Winter,Meghalaya,71.54933333333334
+Winter,Mizoram,53.39140811455847
+Winter,Nagaland,95.9164677804296
+Winter,Odisha,169.362223268959
+Winter,Puducherry,67.80299251870325
+Winter,Punjab,131.4896373056995
+Winter,Rajasthan,158.28823147547064
+Winter,Sikkim,68.35436893203884
+Winter,Tamil Nadu,84.02267962645321
+Winter,Telangana,115.79381443298969
+Winter,Tripura,203.26829268292684
+Winter,Uttar Pradesh,204.72274334922344
+Winter,Uttarakhand,111.65270506108203
+Winter,West Bengal,196.4762954796031
